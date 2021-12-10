@@ -1,5 +1,5 @@
 # Employee Management System
-An application to create and manage employee information with email address.
+An application to create and manage employee information with email address
 
 - Developed an employee management application with email address
 - Management across multiple departments (sales, development, accounting)
